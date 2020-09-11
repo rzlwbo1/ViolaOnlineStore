@@ -1,0 +1,10 @@
+Josefin sans
+noto sans jp
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,700;1,500;1,600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,700;1,500;1,600&family=Noto+Sans+JP:wght@100;300;400;500;700&display=swap');
+
+
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
