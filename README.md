@@ -1,4 +1,4 @@
-# Viola Online Strore
+# Viola Online Store
 
 ![Preview Viola Store](/Viola-Online-Store-Homepage.png "Preview Viola Store")
 
@@ -9,6 +9,6 @@ product apa saja yang sedang di jual, dan yang lagi trend, bahkan product baru s
 
 *Note : Web ini masih bersifat statis, yang artinya belum bisa menerima pembayaran dan orderan, suatu saat akan di update*
 
-## library yang saya gunakan utnuk membangun website ini adalah
+## Berikut Library yang membantu saya 
 * Bootstrap
 * Aos
