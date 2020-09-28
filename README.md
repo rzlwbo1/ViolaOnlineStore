@@ -1,9 +1,14 @@
 # Viola Online Strore
 
-### Ini adalah Salah satu Project Fake yang saya buat
+![Preview Viola Store](/Viola-Online-Store-Homepage.png "Preview Viola Store")
 
-project ini saya lakukan dengan sepenuh hati dan sepenuh jiwaa hiyaaa
+### Ini adalah Salah satu Fake Project yang saya buat
 
-## library yang saya gunakan
+Fake Project ini di tunjukan untuk para pelaku umkm yang ingin mempunyai suatu wadah bagi para calon pembeli untuk melihat -lihat 
+product apa saja yang sedang di jual, dan yang lagi trend, bahkan product baru sekalipun
+
+*Note : Web ini masih bersifat statis, yang artinya belum bisa menerima pembayaran dan orderan, suatu saat akan di update*
+
+## library yang saya gunakan utnuk membangun website ini adalah
 * Bootstrap
 * Aos
