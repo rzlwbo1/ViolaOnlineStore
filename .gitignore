@@ -1,3 +1,4 @@
 *.zip
-/login.html
+*.html
+!index.html
 *.txt
