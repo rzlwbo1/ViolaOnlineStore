@@ -13,3 +13,9 @@ product apa saja yang sedang di jual, dan yang lagi trend, bahkan product baru s
 ## Berikut Library yang membantu saya 
 * Bootstrap
 * Aos
+
+### Panduan Instalasi
+1. Download Zip / Clone
+2. Ekstrak zip (jika mendownload versi zip)
+3. Double Klik file index.html
+4. finish
