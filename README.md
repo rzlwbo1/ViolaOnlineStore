@@ -5,7 +5,7 @@ Web Static Bertemakan Toko Online
 
 
 ## Demo
-[link](https://rzlwbo1.github.io/ViolaOnlineStore/)
+[link](https://violastore.netlify.app/index.html)
 
 ### Ini adalah Salah satu Fake Project yang saya buat
 
